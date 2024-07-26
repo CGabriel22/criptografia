@@ -50,4 +50,7 @@ Criptografado	N	I	B	O	F	I	N	I	B	O
 
 Forma-se um padrão NIBOFI NIBOFI.
 
+## Cifra de Autochave
+https://pt.wikipedia.org/wiki/Cifra_de_autochave
+
 
